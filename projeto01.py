@@ -26,7 +26,7 @@ pdf.image(template_path, x=0, y=0) #Insere o template no pdf, colocar coordenada
 
 
 # Adiciona os detalhes do projeto
-pdf.text(120, 170, projeto) # Passa as coordenadas da pagina
+pdf.text(120, 170, projeto) 
 pdf.text(120, 185, horas_previstas)
 pdf.text(120, 200, valor_hora)
 pdf.text(120, 215, prazo)
