@@ -1,0 +1,2 @@
+# Gerador_de_orcamentos
+ Este script Python cria um orçamento em PDF a partir dos dados inseridos pelo usuário sobre um projeto. O programa solicita a descrição do projeto, o número de horas previstas, o valor da hora trabalhada e o prazo estimado. Com essas informações, gera um documento em PDF com um template de fundo, exibindo os detalhes do projeto e o valor total calculado. O arquivo é salvo como "Orçamento.pdf".
